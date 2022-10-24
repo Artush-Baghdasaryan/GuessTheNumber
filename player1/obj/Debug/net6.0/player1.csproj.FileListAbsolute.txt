@@ -1,0 +1,15 @@
+C:\Users\HP\source\repos\GameWithTCP\player1\bin\Debug\net6.0\player1.exe
+C:\Users\HP\source\repos\GameWithTCP\player1\bin\Debug\net6.0\player1.deps.json
+C:\Users\HP\source\repos\GameWithTCP\player1\bin\Debug\net6.0\player1.runtimeconfig.json
+C:\Users\HP\source\repos\GameWithTCP\player1\bin\Debug\net6.0\player1.dll
+C:\Users\HP\source\repos\GameWithTCP\player1\bin\Debug\net6.0\player1.pdb
+C:\Users\HP\source\repos\GameWithTCP\player1\obj\Debug\net6.0\player1.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\GameWithTCP\player1\obj\Debug\net6.0\player1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\GameWithTCP\player1\obj\Debug\net6.0\player1.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\GameWithTCP\player1\obj\Debug\net6.0\player1.AssemblyInfo.cs
+C:\Users\HP\source\repos\GameWithTCP\player1\obj\Debug\net6.0\player1.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\GameWithTCP\player1\obj\Debug\net6.0\player1.dll
+C:\Users\HP\source\repos\GameWithTCP\player1\obj\Debug\net6.0\refint\player1.dll
+C:\Users\HP\source\repos\GameWithTCP\player1\obj\Debug\net6.0\player1.pdb
+C:\Users\HP\source\repos\GameWithTCP\player1\obj\Debug\net6.0\player1.genruntimeconfig.cache
+C:\Users\HP\source\repos\GameWithTCP\player1\obj\Debug\net6.0\ref\player1.dll

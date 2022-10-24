@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32922.545
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "player1", "player1.csproj", "{73806DC3-D930-40AD-8180-7CA55B6D5437}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "player2", "..\player2\player2.csproj", "{8D7F3862-E07C-4BA1-AB9B-BD7DB62561FC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{73806DC3-D930-40AD-8180-7CA55B6D5437}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{73806DC3-D930-40AD-8180-7CA55B6D5437}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{73806DC3-D930-40AD-8180-7CA55B6D5437}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{73806DC3-D930-40AD-8180-7CA55B6D5437}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8D7F3862-E07C-4BA1-AB9B-BD7DB62561FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D7F3862-E07C-4BA1-AB9B-BD7DB62561FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D7F3862-E07C-4BA1-AB9B-BD7DB62561FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D7F3862-E07C-4BA1-AB9B-BD7DB62561FC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {80806C05-F1F9-4147-8A48-397C35B3B42A}
+	EndGlobalSection
+EndGlobal

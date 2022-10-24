@@ -1,0 +1,15 @@
+C:\Users\HP\source\repos\GameWithTCP\player2\bin\Debug\net6.0\player2.exe
+C:\Users\HP\source\repos\GameWithTCP\player2\bin\Debug\net6.0\player2.deps.json
+C:\Users\HP\source\repos\GameWithTCP\player2\bin\Debug\net6.0\player2.runtimeconfig.json
+C:\Users\HP\source\repos\GameWithTCP\player2\bin\Debug\net6.0\player2.dll
+C:\Users\HP\source\repos\GameWithTCP\player2\bin\Debug\net6.0\player2.pdb
+C:\Users\HP\source\repos\GameWithTCP\player2\obj\Debug\net6.0\player2.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\GameWithTCP\player2\obj\Debug\net6.0\player2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\GameWithTCP\player2\obj\Debug\net6.0\player2.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\GameWithTCP\player2\obj\Debug\net6.0\player2.AssemblyInfo.cs
+C:\Users\HP\source\repos\GameWithTCP\player2\obj\Debug\net6.0\player2.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\GameWithTCP\player2\obj\Debug\net6.0\player2.dll
+C:\Users\HP\source\repos\GameWithTCP\player2\obj\Debug\net6.0\refint\player2.dll
+C:\Users\HP\source\repos\GameWithTCP\player2\obj\Debug\net6.0\player2.pdb
+C:\Users\HP\source\repos\GameWithTCP\player2\obj\Debug\net6.0\player2.genruntimeconfig.cache
+C:\Users\HP\source\repos\GameWithTCP\player2\obj\Debug\net6.0\ref\player2.dll
